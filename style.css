@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+} 
+.red{
+    color: black;
+    height: 100px;
+    background-color: blue
+    
+    
+}
+
+.blue{
+    color: white;
+    background-color: pink
+    
+}
